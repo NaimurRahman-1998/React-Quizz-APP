@@ -1,8 +1,9 @@
+import Videos from "../../components/Videos/Videos";
 
 const Home = () => {
     return (
         <div>
-            <h1>hello world</h1>
+            <Videos></Videos>
         </div>
     );
 };
